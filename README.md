@@ -9,4 +9,4 @@
 ## Usefull Informations 
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
+- [Documenting your projects on GitHub](https://guides.github.com/features/wikis/) 
