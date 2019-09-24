@@ -6,7 +6,7 @@
 - Where users can get help with your project
 - Who maintains and contributes to the project
 
-##Usefull Informations 
+## Usefull Informations 
 - [Basic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Documenting your projects on GitHub](https://guides.github.com/features/wikis/)
